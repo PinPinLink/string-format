@@ -1,0 +1,25 @@
+{
+  "name": "@pinpin.link/string-format",
+  "version": "1.0.0",
+  "description": "String format function polyfill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PinPinLink/string-format.git"
+  },
+  "keywords": [
+    "javascript",
+    "string",
+    "format",
+    "polyfill"
+  ],
+  "author": "Vincent Chen <vincent@pinpin.link>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/PinPinLink/string-format/issues"
+  },
+  "homepage": "https://github.com/PinPinLink/string-format#readme"
+}
